@@ -1,0 +1,12 @@
+{
+	"name": "prueba",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon ./js/main.js localhost 8000"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
